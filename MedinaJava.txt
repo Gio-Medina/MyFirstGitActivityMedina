@@ -1,0 +1,10 @@
+Java Program
+
+Java is a programming language used to create applications.
+This example prints a greeting on the screen.
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Donald Sergio Medina!");
+    }
+}
